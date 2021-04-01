@@ -23,3 +23,7 @@ public class DisplayCode{
 public class DisplayCode {
     
 }
+
+public static void main(String[] args){
+System.out.println("Welcome to Display Code")
+}
